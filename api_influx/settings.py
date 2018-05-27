@@ -113,3 +113,9 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+EMAIL_HOST = 'mail.smarthomy.com'
+EMAIL_USE_TLS = False
+EMAIL_PORT = 587
+EMAIL_HOST_USER = 'juan@smarthomy.com'
+EMAIL_HOST_PASSWORD = 'dario2018'
+
